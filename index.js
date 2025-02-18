@@ -67,5 +67,5 @@ function recommendBooks(userHistory, k = 3) {
 
 // Get recommendations
 // User history: IDs of books the user recently listened to
-const userHistory = [1]; // User played "Book A" and "Book E"
+const userHistory = [1];
 console.log(recommendBooks(userHistory, 3));
