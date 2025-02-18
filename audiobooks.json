@@ -1,0 +1,23 @@
+[
+    {"id": 1, "title": "The Mystery Case", "description": "A thrilling detective story.", "genre": "Mystery", "author": "John Doe", "tags": ["detective", "crime", "thriller"]},
+    {"id": 2, "title": "Love in Paris", "description": "A romantic journey through Paris.", "genre": "Romance", "author": "Jane Smith", "tags": ["love", "romantic", "Paris"]},
+    {"id": 3, "title": "Galactic Adventures", "description": "A sci-fi odyssey across the universe.", "genre": "Sci-Fi", "author": "Emily Clark", "tags": ["space", "adventure", "aliens"]},
+    {"id": 4, "title": "Ancient Kingdoms", "description": "An epic tale of medieval battles and kings.", "genre": "Fantasy", "author": "Robert Brown", "tags": ["war", "kingdom", "swords"]},
+    {"id": 5, "title": "The Business Mind", "description": "A guide to successful entrepreneurship.", "genre": "Business", "author": "Michael Green", "tags": ["startup", "money", "growth"]},
+    {"id": 6, "title": "Deep Space Mystery", "description": "Unravel the mysteries of the cosmos.", "genre": "Sci-Fi", "author": "Sophia Miller", "tags": ["cosmos", "mystery", "technology"]},
+    {"id": 7, "title": "The Secret Garden", "description": "A beautiful story about nature and discovery.", "genre": "Children", "author": "Lisa White", "tags": ["nature", "kids", "family"]},
+    {"id": 8, "title": "Cyber Security Essentials", "description": "Learn the basics of cyber security.", "genre": "Technology", "author": "David Black", "tags": ["hacking", "security", "internet"]},
+    {"id": 9, "title": "A Chef's Journey", "description": "Delicious recipes and cooking tips.", "genre": "Cooking", "author": "Rachel Baker", "tags": ["food", "recipes", "cooking"]},
+    {"id": 10, "title": "Survival in the Wild", "description": "A guide to surviving extreme conditions.", "genre": "Adventure", "author": "James Wilson", "tags": ["survival", "wilderness", "adventure"]},
+    {"id": 11, "title": "History of Rome", "description": "A deep dive into Roman civilization.", "genre": "History", "author": "William Scott", "tags": ["history", "Rome", "civilization"]},
+    {"id": 12, "title": "Artificial Intelligence", "description": "Exploring the future of AI.", "genre": "Technology", "author": "Sarah Johnson", "tags": ["AI", "machine learning", "future"]},
+    {"id": 13, "title": "Yoga for Beginners", "description": "A simple guide to starting yoga.", "genre": "Health", "author": "Emma Davis", "tags": ["yoga", "wellness", "fitness"]},
+    {"id": 14, "title": "World War Chronicles", "description": "A detailed account of world wars.", "genre": "History", "author": "Brian Taylor", "tags": ["war", "history", "world"]},
+    {"id": 15, "title": "The Haunted Mansion", "description": "A horror story set in an old mansion.", "genre": "Horror", "author": "Kevin Lee", "tags": ["ghost", "mystery", "scary"]},
+    {"id": 16, "title": "Space Colonization", "description": "The future of humanity in space.", "genre": "Science", "author": "Nancy White", "tags": ["space", "future", "science"]},
+    {"id": 17, "title": "Gourmet Cooking", "description": "Mastering the art of fine dining.", "genre": "Cooking", "author": "Jessica Brown", "tags": ["cooking", "gourmet", "recipes"]},
+    {"id": 18, "title": "Psychology of Success", "description": "Understanding the mind for success.", "genre": "Self-Help", "author": "Alan Cooper", "tags": ["success", "mindset", "motivation"]},
+    {"id": 19, "title": "The Art of Negotiation", "description": "Mastering business negotiations.", "genre": "Business", "author": "Patrick Harris", "tags": ["business", "negotiation", "strategy"]},
+    {"id": 20, "title": "The Nexter", "description":  "A deep detective crime story", "genre": "Mystery", "author": "Sophia Carter", "tags": ["detective", "crime", "investigation"]}
+  ]
+  

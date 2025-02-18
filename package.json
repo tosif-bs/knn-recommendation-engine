@@ -1,0 +1,21 @@
+{
+  "name": "knn-recommendation-engine",
+  "version": "1.0.0",
+  "description": "A KNN algo based recommendation engine for audiobooks based on user input.",
+  "main": "index.js",
+  "author": {
+    "name": "Tosif Saiyad",
+    "email": "tosif@bigscal.com"
+  },
+  "dependencies": {
+    "ml-knn": "^3.0.0",
+    "natural": "^8.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }
+}
